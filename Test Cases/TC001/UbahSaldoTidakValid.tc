@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UbahSaldoTidakValid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e839c0f-3c9c-4a98-ad7a-217323d48149</testCaseGuid>
+</TestCaseEntity>

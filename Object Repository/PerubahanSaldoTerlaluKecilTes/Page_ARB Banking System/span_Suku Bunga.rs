@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Suku Bunga</name>
+   <tag></tag>
+   <elementGuidId>00e8d9b7-a243-44d4-b8dc-32c83469bc46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Label-CAPTION:aa:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Suku Bunga&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c58a5cd4-39ed-4c99-804a-581adbb32ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>c6deb4cf-532a-4fc5-9c74-cc026a459b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Label-CAPTION:aa:</value>
+      <webElementGuid>c7ba4a1a-b3c3-41c2-abdf-555771a9940b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-label-caption     xui-custom</value>
+      <webElementGuid>4c3044a2-14ae-4b04-a5da-77e68620f8bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suku Bunga</value>
+      <webElementGuid>57e376fc-de1d-4d6d-8151-3c3d11842fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Label-CAPTION:aa:&quot;)</value>
+      <webElementGuid>c34696df-1a6c-42f0-93a3-37e823fe6002</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Label-CAPTION:aa:']</value>
+      <webElementGuid>ed9b1b1a-1627-42e1-a26f-186b51d29458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='xui.UI.Label:aa:']/span[3]</value>
+      <webElementGuid>0c787bfb-abce-4022-a6c7-91706326f61f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Deposito'])[1]/following::span[3]</value>
+      <webElementGuid>da9eb1a1-8a1d-4db3-93a0-651af1e445e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y'])[1]/following::span[41]</value>
+      <webElementGuid>6253769d-dffd-435d-b5f2-a6132dccf4c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA PARAMETER PRODUK DEPOSITO'])[1]/preceding::span[3]</value>
+      <webElementGuid>82884c1c-19ef-4721-b736-a9b970b02482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Produk *'])[1]/preceding::span[5]</value>
+      <webElementGuid>44ebd8ab-ef7c-4168-a003-a1ec0a931ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Suku Bunga']/parent::*</value>
+      <webElementGuid>7e274d83-f0a7-4244-88a5-a9f81e0c15ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/label[2]/span[3]</value>
+      <webElementGuid>3f8897a8-0525-48a8-a92f-7d8fdc35b50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Label-CAPTION:aa:' and (text() = 'Suku Bunga' or . = 'Suku Bunga')]</value>
+      <webElementGuid>c6bc51d4-9739-46de-abbd-5699c62b47cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

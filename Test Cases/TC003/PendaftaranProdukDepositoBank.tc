@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PendaftaranProdukDepositoBank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a792bf7d-f6ae-4eca-a8e6-5f907e93008b</testCaseGuid>
+</TestCaseEntity>

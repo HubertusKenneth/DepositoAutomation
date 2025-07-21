@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PerubahanSaldoTerlaluKecil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bdd717d7-af29-41b7-81e8-f1363a1f88f7</testCaseGuid>
+</TestCaseEntity>

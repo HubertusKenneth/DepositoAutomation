@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanPersetujuanProdukBank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d33ad0b-4f74-4338-b83b-94495d0a1018</testCaseGuid>
+</TestCaseEntity>
