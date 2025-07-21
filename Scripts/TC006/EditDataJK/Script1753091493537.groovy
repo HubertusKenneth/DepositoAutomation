@@ -60,4 +60,3 @@ WebUI.click(findTestObject('Object Repository/UbahDataJK/Page_ARB Banking System
 WebUI.click(findTestObject('Object Repository/UbahDataJK/Page_ARB Banking System/span_Yes'))
 
 WebUI.closeBrowser()
-
