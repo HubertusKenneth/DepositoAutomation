@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ABDULLAH ROCHIMAH BUDI HUBERTUS KENNET_848457</name>
+   <tag></tag>
+   <elementGuidId>01fa97cf-5107-496c-801e-157fa61de39e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:a:-c_e']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabDPMA0003 >> internal:text=&quot;ABDULLAH ROCHIMAH; BUDI; HUBERTUS KENNETH; DITA AKMANDA; RIRI AKMANDA&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20e6be1b-b511-40ee-bfaa-1398676c75fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.TreeGrid-CELLCAPTION:a:-c_e</value>
+      <webElementGuid>88718456-ee37-4dc5-abb7-8bd6d7a41515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-treegrid-cellcaption xui-v-node     xui-custom</value>
+      <webElementGuid>090424ba-f95e-42fe-9300-15fc18a41afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABDULLAH ROCHIMAH; BUDI; HUBERTUS KENNETH; DITA AKMANDA; RIRI AKMANDA</value>
+      <webElementGuid>f16e8f27-2646-4af9-a9c8-dae674f1d028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.TreeGrid-CELLCAPTION:a:-c_e&quot;)</value>
+      <webElementGuid>3ff0d73e-eb3a-419a-b8c5-5ab0fb4ebb6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:a:-c_e']</value>
+      <webElementGuid>bc2200d7-ae8e-48ff-8c7e-e3d02b3b1b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLA:a:-c_e']/span</value>
+      <webElementGuid>eebad809-c10a-4cf9-aa75-8aa6de7f3a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERORANGAN'])[1]/following::span[3]</value>
+      <webElementGuid>a81864c7-7287-4bcf-a945-2e372f858596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TAMBAH'])[1]/following::span[9]</value>
+      <webElementGuid>4c61d390-8ee1-4b49-ac57-7f4c1d0a8dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUBERTUS'])[1]/preceding::span[7]</value>
+      <webElementGuid>bd10d8b5-efa9-4878-b1de-e811d0e58ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Baru'])[1]/preceding::span[48]</value>
+      <webElementGuid>62dd8932-b2ee-4cd1-a9b2-60ffaf67fef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ABDULLAH ROCHIMAH; BUDI; HUBERTUS KENNETH; DITA AKMANDA; RIRI AKMANDA']/parent::*</value>
+      <webElementGuid>49cb1a80-7214-4f9e-b215-b67014e7a9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/span[5]/span/span</value>
+      <webElementGuid>7643b513-4c68-409a-90a4-976f783f53d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.TreeGrid-CELLCAPTION:a:-c_e' and (text() = 'ABDULLAH ROCHIMAH; BUDI; HUBERTUS KENNETH; DITA AKMANDA; RIRI AKMANDA' or . = 'ABDULLAH ROCHIMAH; BUDI; HUBERTUS KENNETH; DITA AKMANDA; RIRI AKMANDA')]</value>
+      <webElementGuid>c4803c89-5395-4762-97b0-dde7a08aa0ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Instansi0 DATA NASABAH1.02.1Data B_132fc4</name>
+   <tag></tag>
+   <elementGuidId>fd9baee6-3264-4cc8-9b38-4b9a76318152</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.Block-PANEL:r:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabDPMA0001 div >> internal:has-text=&quot;Data Instansi 0 DATA NASABAH1....02....1Data BankNoCodeNama BankNo 0 DATA NASABA&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e561b157-a77b-430a-9634-60ea2bd1ed34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Block-PANEL:r:</value>
+      <webElementGuid>1e26e01c-ca77-4b06-8596-6c42d9c45478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-block-panel xui-uibar xui-uicontainer      xui-custom</value>
+      <webElementGuid>0591eaf6-0365-43c6-88e8-cce8720cec87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Instansi 0 DATA NASABAH1....02....1Data BankNoCodeNama BankNo 0 DATA NASABAH1....02....1Informasi- 3 --BatalSimpanPEMBUKAAN REKENING DEPOSITOInputflagNama NasabahDATA NASABAHDATA REKENINGDATA HADIAHDATA NASABAHNo. CIFNo. IdentitasNama NasabahTanggal LahirTgl Mulai Berlaku ProdukNomor HandphoneNama Ibu KandungAlamat UtamaAlamat AlternatifDATA REKENINGJenis Produk*Nama Pada RekeningTgl. Buka RekeningTgl. Jatuh TempoTgl Mulai Berlaku ProdukTgl Mulai Berlaku ProdukNomor Bilyet Tercetak*Nominal*Tgl. Bunga BerikutTgl Mulai Berlaku ProdukSuku Bunga Produk*VarianceBunga Efektif*Cara Pengkreditan Bunga*Nama Bank*CabangNo. Rek Kredit Bunga*Nama Pemilik Rek. Pengkreditan Bunga*Cara Pengkreditan Pokok*Nama Bank*CabangNo. Rek Kredit Pokok*Nama Pemilik Rek. Pengkreditan Pokok*Kirim Advis Jatuh TempoMetode Advis Jatuh TempoAlamat**Petugas MarketingKantor KasPilih Nomor RekeningNama InstansiCatatanText AreaDATA HADIAHHadiah BrutoPajak HadiahHadiah NettoKeteranganText AreaBatalSimpan</value>
+      <webElementGuid>f49281a2-1267-4816-b72a-06115bc76d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Block-PANEL:r:&quot;)</value>
+      <webElementGuid>f8dc7d38-84d2-4535-9d5d-ef52c0a3be31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Block-PANEL:r:']</value>
+      <webElementGuid>124689dd-f792-4958-b42c-c49d30eb326d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Block-BORDER:r:']/div[2]</value>
+      <webElementGuid>bedf857f-c78c-495e-9573-9b2184fc8beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEMBUKAAN REKENING DEPOSITO'])[1]/following::div[7]</value>
+      <webElementGuid>4c030d5b-269e-4402-9b04-c0e184151b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='c'])[1]/following::div[10]</value>
+      <webElementGuid>0047b578-f744-48bd-b6b4-e560af88ffca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span/span/span/div[2]</value>
+      <webElementGuid>17244c41-b7f9-4b9b-9ef8-33dda5ebf24f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.Block-PANEL:r:' and (text() = 'Data Instansi 0 DATA NASABAH1....02....1Data BankNoCodeNama BankNo 0 DATA NASABAH1....02....1Informasi- 3 --BatalSimpanPEMBUKAAN REKENING DEPOSITOInputflagNama NasabahDATA NASABAHDATA REKENINGDATA HADIAHDATA NASABAHNo. CIFNo. IdentitasNama NasabahTanggal LahirTgl Mulai Berlaku ProdukNomor HandphoneNama Ibu KandungAlamat UtamaAlamat AlternatifDATA REKENINGJenis Produk*Nama Pada RekeningTgl. Buka RekeningTgl. Jatuh TempoTgl Mulai Berlaku ProdukTgl Mulai Berlaku ProdukNomor Bilyet Tercetak*Nominal*Tgl. Bunga BerikutTgl Mulai Berlaku ProdukSuku Bunga Produk*VarianceBunga Efektif*Cara Pengkreditan Bunga*Nama Bank*CabangNo. Rek Kredit Bunga*Nama Pemilik Rek. Pengkreditan Bunga*Cara Pengkreditan Pokok*Nama Bank*CabangNo. Rek Kredit Pokok*Nama Pemilik Rek. Pengkreditan Pokok*Kirim Advis Jatuh TempoMetode Advis Jatuh TempoAlamat**Petugas MarketingKantor KasPilih Nomor RekeningNama InstansiCatatanText AreaDATA HADIAHHadiah BrutoPajak HadiahHadiah NettoKeteranganText AreaBatalSimpan' or . = 'Data Instansi 0 DATA NASABAH1....02....1Data BankNoCodeNama BankNo 0 DATA NASABAH1....02....1Informasi- 3 --BatalSimpanPEMBUKAAN REKENING DEPOSITOInputflagNama NasabahDATA NASABAHDATA REKENINGDATA HADIAHDATA NASABAHNo. CIFNo. IdentitasNama NasabahTanggal LahirTgl Mulai Berlaku ProdukNomor HandphoneNama Ibu KandungAlamat UtamaAlamat AlternatifDATA REKENINGJenis Produk*Nama Pada RekeningTgl. Buka RekeningTgl. Jatuh TempoTgl Mulai Berlaku ProdukTgl Mulai Berlaku ProdukNomor Bilyet Tercetak*Nominal*Tgl. Bunga BerikutTgl Mulai Berlaku ProdukSuku Bunga Produk*VarianceBunga Efektif*Cara Pengkreditan Bunga*Nama Bank*CabangNo. Rek Kredit Bunga*Nama Pemilik Rek. Pengkreditan Bunga*Cara Pengkreditan Pokok*Nama Bank*CabangNo. Rek Kredit Pokok*Nama Pemilik Rek. Pengkreditan Pokok*Kirim Advis Jatuh TempoMetode Advis Jatuh TempoAlamat**Petugas MarketingKantor KasPilih Nomor RekeningNama InstansiCatatanText AreaDATA HADIAHHadiah BrutoPajak HadiahHadiah NettoKeteranganText AreaBatalSimpan')]</value>
+      <webElementGuid>a7a3481b-61bc-4f4f-b90b-c42767167e72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

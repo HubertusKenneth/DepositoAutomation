@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KonfirmasiTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea6ec32d-bfe8-4f10-9887-805b44b320a8</testCaseGuid>
+</TestCaseEntity>

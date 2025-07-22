@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TRANSAKSI RED FLAG (TRANSAKSI TUNAI HA_ea41eb</name>
+   <tag></tag>
+   <elementGuidId>05ae9931-11a9-4a21-8cb5-816c178017db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:c:-c_g']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ctl_tabTRMA0011 >> internal:text=&quot;TRANSAKSI RED FLAG (TRANSAKSI TUNAI HARIAN >/= 500 JUTA)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57bf80df-aecb-476e-98e7-f77b61fba98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.TreeGrid-CELLCAPTION:c:-c_g</value>
+      <webElementGuid>c5051a59-97fa-4c27-a8ed-6beb6badc97e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-treegrid-cellcaption xui-v-node     xui-custom</value>
+      <webElementGuid>04ca12c8-70d4-4d09-97c1-be1384591b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRANSAKSI RED FLAG (TRANSAKSI TUNAI HARIAN >/= 500 JUTA)</value>
+      <webElementGuid>ffd8e80c-7a76-4f44-a5f0-092e0e575276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.TreeGrid-CELLCAPTION:c:-c_g&quot;)</value>
+      <webElementGuid>72d7d691-a029-4440-b14a-0313b4092d91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLCAPTION:c:-c_g']</value>
+      <webElementGuid>b5779cfa-eacd-4cde-a52a-ee675371c7ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.TreeGrid-CELLA:c:-c_g']/span</value>
+      <webElementGuid>b7763ba6-0e7e-405b-b068-48bfd44d836d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SALDO TELLER MELEBIHI LIMIT ASURANSI'])[1]/following::span[15]</value>
+      <webElementGuid>e7601f89-d639-43ed-82eb-877657b41731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disetujui'])[1]/following::span[43]</value>
+      <webElementGuid>1bfdcded-4dc5-40ca-b51f-d56ce594daa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Slip*'])[1]/preceding::span[12]</value>
+      <webElementGuid>2aa96a3b-650e-4f4c-ba4d-44441183db44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STUHUB0000001425'])[2]/preceding::span[15]</value>
+      <webElementGuid>ef1b1eb3-bfb7-403c-adb2-c8187af490cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TRANSAKSI RED FLAG (TRANSAKSI TUNAI HARIAN >/= 500 JUTA)']/parent::*</value>
+      <webElementGuid>d9b1d890-c566-4df6-a276-f4badafbe572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr[3]/td[2]/div/div/div/div[2]/div/span[3]/span/span</value>
+      <webElementGuid>85ca78f7-0b2b-4166-a427-0aa0df80b30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.TreeGrid-CELLCAPTION:c:-c_g' and (text() = 'TRANSAKSI RED FLAG (TRANSAKSI TUNAI HARIAN >/= 500 JUTA)' or . = 'TRANSAKSI RED FLAG (TRANSAKSI TUNAI HARIAN >/= 500 JUTA)')]</value>
+      <webElementGuid>b618c8af-66fc-4042-bed6-3b1fc0c980cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

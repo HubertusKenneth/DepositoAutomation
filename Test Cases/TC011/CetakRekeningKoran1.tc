@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CetakRekeningKoran1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a713abbb-78ae-4ebd-95a2-7bb4126ac646</testCaseGuid>
+</TestCaseEntity>
