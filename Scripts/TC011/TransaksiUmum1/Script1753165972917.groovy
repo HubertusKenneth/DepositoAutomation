@@ -43,8 +43,6 @@ WebUI.setText(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Bankin
 
 WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/span_Run'))
 
-WebUI.navigateToUrl('http://192.168.1.239:8080/CoreMain/spa/coreplus.html?key=jq981528')
-
 WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/input_Pilih Transaksi_xui.UI.ComboInput-INPUTm'))
 
 WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/span_SETOR TUNAI'))
@@ -61,7 +59,7 @@ WebUI.setText(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Bankin
 WebUI.sendKeys(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/input_Nomor Rekening_xui.UI.Input-INPUTj'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/span_Submit'))
+WebUI.click(findTestObject('Object Repository/TransaksiUmumDeposito/Page_ARB Banking System/span_Submit'))
 
 WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/span_Simpan'))
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanBreakDepositoPersetujuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7333c23-daa1-493a-bbfd-3ca7c85aaed5</testCaseGuid>
+</TestCaseEntity>

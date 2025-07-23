@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanRekBlokirPembatalan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>520e21c9-1ca0-4c8d-9667-7daa92302fec</testCaseGuid>
+</TestCaseEntity>

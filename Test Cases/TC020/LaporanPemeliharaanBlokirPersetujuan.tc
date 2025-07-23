@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanPemeliharaanBlokirPersetujuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a212ca29-858a-457e-bdf0-2ccf759549d9</testCaseGuid>
+</TestCaseEntity>
