@@ -21,18 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://192.168.1.239:8080/CoreMain/spa/coreplus.html?key=jq981528')
 
-WebUI.setText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc (5)'), 
-    'HUBERTUS')
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc (3)'), 'HUEBRTUS')
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc (5)'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (3)'), 
     'J7R4ejOak4Y=')
 
-WebUI.sendKeys(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (3)'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/div_1. Copy URL berikut dan paste di Tab Br_6170e0 (2)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/font_chromeflagsenable-webrtc-hide-local-ip_6fc727 (2)'))
+
+WebUI.newTab('')
+
+WebUI.openBrowser('')
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://192.168.1.239:8080/CoreMain/spa/coreplus.html?key=jq981528')
 
 WebUI.newTab('')
 
@@ -42,65 +49,104 @@ WebUI.navigateToUrl('http://192.168.1.239:8080/CoreMain/spa/coreplus.html?key=jq
 
 WebUI.switchToWindowTitle('ARB+ Banking System')
 
-WebUI.setText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc (5)'), 
-    'HUBERTUS')
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc (3)'), 'HUBERTUS')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
-    'J7R4ejOak4Y=')
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc (3)'))
 
-WebUI.sendKeys(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_O K (5)'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (3)'), 
     'ZnRK2WismzjXFIOC0MnUBQ==')
 
-WebUI.sendKeys(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (3)'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_O K_1 (5)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_Favorites (2)'))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_Password'))
+WebUI.rightClick(findTestObject('Object Repository/Page_ARB Banking System/div_TEST EOD GL_xui.UI.TreeView-BOXa (2)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
-    'ZnRK2WismzjXFIOC0MnUBQ==')
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_Create New Favorite (2)'))
 
-WebUI.sendKeys(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj (5)'), 
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/textarea_Add_xui.UI.Input-INPUTd (2)'), 'DPMA0001')
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_Run (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_Nama Nasabah_xui.UI.Input-INPUTs'), 'HUBERTUS')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_Nama Nasabah_xui.UI.Input-INPUTs'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_HUBERTUS KENNETH'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/label_Text Area_xui.UI.Labelcf'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Jenis Produk_xui.UI.ComboInput-INPUTo'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_DA - D.NAS-1 BL'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Cara Pengkreditan Bunga_xui.UI.ComboI_8ac0a3'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_3 - KREDIT REKENING'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Cara Pengkreditan Pokok_xui.UI.ComboI_bf70e4'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_3 - KREDIT KE REKENING LAIN'))
+
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_No. Rek Kredit Bunga_xui.UI.ComboInpu_dcd38f'), 
+    '370100059496')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_No. Rek Kredit Bunga_xui.UI.ComboInpu_dcd38f'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_Favorites (5)'))
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_No. Rek Kredit Pokok_xui.UI.ComboInpu_e69651'), 
+    '370100059496')
 
-WebUI.rightClick(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/div_TEST EOD GL_xui.UI.Stacks-PANELab'))
-
-WebUI.rightClick(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/div_TEST EOD GL_xui.UI.TreeView-BOXa (5)'))
-
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_Create New Favorite (5)'))
-
-WebUI.setText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/textarea_Add_xui.UI.Input-INPUTd (5)'), 
-    'DPMA0001')
-
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_Run (5)'))
-
-WebUI.setText(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Nama Nasabah_xui.UI.Input-INPUTs (5)'), 
-    'HUBERTUS')
-
-WebUI.sendKeys(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Nama Nasabah_xui.UI.Input-INPUTs (5)'), 
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_No. Rek Kredit Pokok_xui.UI.ComboInpu_e69651'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_HUBERTUS KENNETH (5)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_Kirim Advis Jatuh Tempo_xui.UI.CheckBoxd'))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/label_Text Area_xui.UI.Labelcf (5)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Metode Advis Jatuh Tempo_xui.UI.Combo_12ca80'))
 
-WebUI.doubleClick(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Jenis Produk_xui.UI.ComboInput-INPUTo (5)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_EMAIL'))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/span_PCA - KEN TEST (1)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_O K (1)'))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Tgl Mulai Berlaku Produk_xui.UI.Combo_e1b7d7 (1)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Metode Advis Jatuh Tempo_xui.UI.Combo_12ca80'))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/td_1 (1)'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_SURAT'))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/input_Tgl Mulai Berlaku Produk_xui.UI.Combo_e1b7d7 (1)'))
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_Nominal_xui.UI.Input-INPUTac'), '10000')
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekening/Page_ARB Banking System/p_31'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_Nominal_xui.UI.Input-INPUTac'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_O K (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_Nominal_xui.UI.Input-INPUTac'), '1000000')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_Nominal_xui.UI.Input-INPUTac'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_Bunga Efektif_xui.UI.Input-INPUTaf'), '9')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_ARB Banking System/input_Bunga Efektif_xui.UI.Input-INPUTaf'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Petugas Marketing_xui.UI.ComboInput-INPUTac'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_ADELA'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_Simpan (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_O K (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_ARB Banking System/input_Nomor Bilyet Tercetak_xui.UI.Input-INPUTab'), 
+    '09876')
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_Simpan (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_Ya (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/span_O K_1 (1)'))
+
+WebUI.closeBrowser()
 

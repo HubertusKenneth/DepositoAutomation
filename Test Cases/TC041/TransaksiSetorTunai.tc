@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TransaksiSetorTunai</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cc5cbd3-31f3-43ec-ab93-75c2a7f6a6b4</testCaseGuid>
+</TestCaseEntity>

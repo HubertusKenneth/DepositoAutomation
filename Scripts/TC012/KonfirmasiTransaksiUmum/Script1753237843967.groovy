@@ -39,7 +39,7 @@ WebUI.rightClick(findTestObject('Object Repository/KonfirmasiTransaksiTes/Page_A
 WebUI.click(findTestObject('Object Repository/KonfirmasiTransaksiTes/Page_ARB Banking System/span_Create New Favorite (1)'))
 
 WebUI.setText(findTestObject('Object Repository/KonfirmasiTransaksiTes/Page_ARB Banking System/textarea_Add_xui.UI.Input-INPUTd (1)'), 
-    'TRMA0011')
+    'TRMA0012')
 
 WebUI.click(findTestObject('Object Repository/KonfirmasiTransaksiTes/Page_ARB Banking System/span_Run (1)'))
 

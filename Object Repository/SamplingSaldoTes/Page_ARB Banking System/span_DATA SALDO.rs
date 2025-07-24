@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DATA SALDO</name>
+   <tag></tag>
+   <elementGuidId>6b9d8fc2-ca95-4aaa-ad70-a067dcf4977c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Tabs-CAPTION:a:d']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;DATA SALDO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3f0e7332-a48d-47d7-b4c9-688dba5b8f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Tabs-CAPTION:a:d</value>
+      <webElementGuid>bf8587af-2f0a-4469-905d-cdfb2c09ff8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-tabs-caption xui-title-node     xui-custom</value>
+      <webElementGuid>12774e6f-b2cc-4c78-ab88-edc88edb294a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DATA SALDO</value>
+      <webElementGuid>e9bc244d-3ca4-4bf8-aa50-0a1d3b899d2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Tabs-CAPTION:a:d&quot;)</value>
+      <webElementGuid>d5366f5a-a37d-4670-beaa-d4ed984dbd78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Tabs-CAPTION:a:d']</value>
+      <webElementGuid>dee1d129-04ad-4046-9409-eda2d11dff69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Tabs-IBWRAP:a:d']/span[4]</value>
+      <webElementGuid>097ecfdc-951d-4850-ba07-0e5ca27bb7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA KUASA'])[1]/following::span[13]</value>
+      <webElementGuid>fd7c2c5b-a210-4802-be5e-e714732cbb7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REKENING BERJANGKA'])[1]/following::span[26]</value>
+      <webElementGuid>81efdc24-62cb-4a6b-b136-9bb3bcf94cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HISTORY BUNGA'])[1]/preceding::span[9]</value>
+      <webElementGuid>f2e02c39-fc50-42a2-bf9b-c2af8358f572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Pemilik Rekening'])[1]/preceding::span[21]</value>
+      <webElementGuid>ea6f4d38-8ccc-4065-91e8-030938ae1a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DATA SALDO']/parent::*</value>
+      <webElementGuid>9c558b66-7480-4c6f-8110-b63cf6536b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/span/span/span/div/span[4]</value>
+      <webElementGuid>59c17bba-0c0f-4ec1-8a1e-2a5db21bad8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Tabs-CAPTION:a:d' and (text() = 'DATA SALDO' or . = 'DATA SALDO')]</value>
+      <webElementGuid>44129310-6d2e-4cc5-a28c-0756912fe7c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

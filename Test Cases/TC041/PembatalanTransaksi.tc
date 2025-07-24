@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PembatalanTransaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2fdbb70-bed8-45a1-9ad1-8e0b3a995222</testCaseGuid>
+</TestCaseEntity>

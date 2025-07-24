@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DATA REKENING</name>
+   <tag></tag>
+   <elementGuidId>76a276fa-c733-494a-a389-48ae2d55686c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Label-CAPTION:ai:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;DATA REKENING&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b738f80-e034-43d7-ade1-1ca012eef51e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>d6758a05-2263-43cb-afea-52a446c336ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Label-CAPTION:ai:</value>
+      <webElementGuid>c6924757-4fb1-4801-8a16-dd48d605ee14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-label-caption     xui-custom</value>
+      <webElementGuid>c82fb356-8b3d-4675-8808-2b3ba4d3f623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DATA REKENING</value>
+      <webElementGuid>40693f99-5cec-4e89-a6ef-c394916ab9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Label-CAPTION:ai:&quot;)</value>
+      <webElementGuid>a4534d5d-33b9-4bb6-a17c-6ec96e278108</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Label-CAPTION:ai:']</value>
+      <webElementGuid>8fd5ac4a-3205-4d34-acf5-4fd347ddd126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='xui.UI.Label:ai:']/span[3]</value>
+      <webElementGuid>601a1d05-ff6c-4cdc-9f3e-c36ae58c21b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA NASABAH'])[1]/following::span[3]</value>
+      <webElementGuid>6a7d3a06-9151-40a5-9bdc-b6c1518bf063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Nasabah / No. Rekening'])[1]/following::span[38]</value>
+      <webElementGuid>b6a0a9e3-8ac7-4699-a2ea-a682bf5420a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA HADIAH'])[1]/preceding::span[3]</value>
+      <webElementGuid>99abbea5-3036-4c95-8b6e-237f7a6a0218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DATA NASABAH'])[2]/preceding::span[9]</value>
+      <webElementGuid>e258b7c5-187d-4cff-b31b-1792135d1eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DATA REKENING']/parent::*</value>
+      <webElementGuid>cc38a8dc-70a5-4a92-a493-08e2327ca088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label[2]/span[3]</value>
+      <webElementGuid>7a181d7c-3645-4bc0-9a47-e36533612956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Label-CAPTION:ai:' and (text() = 'DATA REKENING' or . = 'DATA REKENING')]</value>
+      <webElementGuid>04d2f522-d558-49a4-bac7-07e0444b0183</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

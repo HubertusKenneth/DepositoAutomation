@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_KANTOR CABANG NGALIYAN</name>
+   <tag></tag>
+   <elementGuidId>de0b13c9-ded8-443c-9d2a-b3c50ed325c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.List-CAPTION:e:b']/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;KANTOR CABANG NGALIYAN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>436c7842-7cd9-4db2-aefe-18848d6471d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KANTOR CABANG NGALIYAN</value>
+      <webElementGuid>7bc81845-016a-4377-89ce-9da59fec1de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.List-CAPTION:e:b&quot;)/table[1]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>23859cb8-3c0a-40e3-9682-f2f44a8be174</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-CAPTION:e:b']/table/tbody/tr/td[3]</value>
+      <webElementGuid>e7ea7142-182d-478a-b971-f7779994e504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='='])[3]/following::td[1]</value>
+      <webElementGuid>cd225ddf-14f9-4c42-9477-3315d46c8300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KANTOR PUSAT'])[1]/following::td[3]</value>
+      <webElementGuid>e1ff4dd4-3966-40a8-a160-e2c62807a6d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KANTOR CABANG NGALIYAN']/parent::*</value>
+      <webElementGuid>4d46b3d8-90a2-4399-9d3b-cec65f5c2abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span[4]/table/tbody/tr/td[3]</value>
+      <webElementGuid>4a7551f1-afba-463c-be77-77388c39176b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'KANTOR CABANG NGALIYAN' or . = 'KANTOR CABANG NGALIYAN')]</value>
+      <webElementGuid>2bbdd3a9-b147-4784-b1c6-4a33b673f298</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PersetujuanPembatalanBlokirRekDepo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fa56aff-57a0-4702-a54c-710a02699daf</testCaseGuid>
+</TestCaseEntity>

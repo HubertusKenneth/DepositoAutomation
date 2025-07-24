@@ -21,18 +21,10 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://192.168.1.239:8080/CoreMain/spa/coreplus.html?key=jq981528')
 
-WebUI.newTab('')
-
-WebUI.switchToWindowTitle('')
-
-WebUI.navigateToUrl('http://192.168.1.239:8080/CoreMain/spa/coreplus.html?key=jq981528')
-
-WebUI.switchToWindowTitle('ARB+ Banking System')
-
 WebUI.setText(findTestObject('Object Repository/PersetujuanTransaksiTes/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc'), 
     'HUBERTUS2')
 
-WebUI.click(findTestObject('Object Repository/PersetujuanTransaksiTes/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc'))
+WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PersetujuanTransaksiTes/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj'), 
     'W0cBnat/VTb4vE62HGItvw==')
