@@ -47,7 +47,7 @@ WebUI.setText(findTestObject('Object Repository/PerubahanBungaTes/Page_ARB Banki
 WebUI.click(findTestObject('Object Repository/PerubahanBungaTes/Page_ARB Banking System/span_Run'))
 
 WebUI.setText(findTestObject('Object Repository/PerubahanBungaTes/Page_ARB Banking System/input_Nama Nasabah  No. Rekening_xui.UI.Inp_83b41d'), 
-    '370300115838')
+    '370300115841')
 
 WebUI.sendKeys(findTestObject('Object Repository/PerubahanBungaTes/Page_ARB Banking System/input_Nama Nasabah  No. Rekening_xui.UI.Inp_83b41d'), 
     Keys.chord(Keys.ENTER))
@@ -70,7 +70,7 @@ activeInput.sendKeys(Keys.DELETE)
 
 WebUI.delay(0.5)
 
-activeInput.sendKeys("2")
+activeInput.sendKeys("15")
 activeInput.sendKeys(Keys.ENTER)
 
 WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//span[text()='Simpan']"))

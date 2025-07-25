@@ -44,7 +44,7 @@ WebUI.setText(findTestObject('Object Repository/PemeliharaanBlokirDeposito/Page_
 WebUI.click(findTestObject('Object Repository/PemeliharaanBlokirDeposito/Page_ARB Banking System/span_Run (1)'))
 
 WebUI.setText(findTestObject('Object Repository/PemeliharaanBlokirDeposito/Page_ARB Banking System/input_Nama Nasabah  No Rekening_xui.UI.Inpu_31dbf0 (1)'), 
-    '370300115838')
+    '370300115841')
 
 WebUI.sendKeys(findTestObject('Object Repository/PemeliharaanBlokirDeposito/Page_ARB Banking System/input_Nama Nasabah  No Rekening_xui.UI.Inpu_31dbf0 (1)'), 
     Keys.chord(Keys.ENTER))

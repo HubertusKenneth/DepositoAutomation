@@ -44,7 +44,7 @@ WebUI.setText(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB 
 WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Run'))
 
 WebUI.setText(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/input_Nomor Slip_xui.UI.ComboInput-INPUTm'), 
-    'STUHUB0000001430')
+    'STUHUB0000001434')
 
 WebUI.sendKeys(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/input_Nomor Slip_xui.UI.ComboInput-INPUTm'), 
     Keys.chord(Keys.ENTER))
@@ -54,48 +54,6 @@ WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Ba
 WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_1 - SALAH REKENING'))
 
 WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Ya'))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_O K_1'))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/img_START_xui.UI.Imagec'))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Sign Out'))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Yes'))
-
-WebUI.setText(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/input_Username_xui.UI.Input-INPUTc'), 
-    'HUBERTUS2')
-
-WebUI.click(findTestObject('Object Repository/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj'), 
-    'W0cBnat/VTb4vE62HGItvw==')
-
-WebUI.sendKeys(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/input_Password_xui.UI.ComboInput-INPUTj'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Favorites'))
-
-WebUI.rightClick(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/div_TEST EOD GL_xui.UI.TreeView-BOXa'))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Create New Favorite_1'))
-
-WebUI.setText(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/textarea_Add_xui.UI.Input-INPUTd'), 
-    'TRMA0014')
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Run'))
-
-WebUI.setText(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/input_Pencarian_xui.UI.Input-INPUTk'), 
-    'STUHUB0000001430')
-
-WebUI.sendKeys(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/input_Pencarian_xui.UI.Input-INPUTk'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_1'))
-
-WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Setuju'))
 
 WebUI.click(findTestObject('Object Repository/PembatalanTransaksiTes/Page_ARB Banking System/span_Ya'))
 

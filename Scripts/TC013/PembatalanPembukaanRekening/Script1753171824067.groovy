@@ -54,19 +54,52 @@ WebUI.sendKeys(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/
 
 WebUI.click(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/Page_ARB Banking System/span_HUBERTUS KENNETH'))
 
-//WebUI.click(findTestObject('Object Repository/KonfirmasiTransaksiTes/Page_ARB Banking System/span_O K'))
-//
-//WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//span[contains(@class,'xui-icon-circleright')]"))
-//
-//WebUI.delay(5)
-//
-//WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//span[contains(@class,'xui-icon-circleright')]"))
-//
-//WebUI.click(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/Page_ARB Banking System/img_START_xui.UI.Imagec'))
-//
-//WebUI.click(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/Page_ARB Banking System/span_Sign Out'))
-//
-//WebUI.click(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/Page_ARB Banking System/span_Yes'))
-//
-//WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/KonfirmasiTransaksiTes/Page_ARB Banking System/span_O K'))
+
+WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//span[contains(@class,'xui-icon-circleright')]"))
+
+//Klik next button karena memeakai yang sebelumnya tidak bisa (not found)
+TestObject iconRight2 = new TestObject().addProperty('xpath', ConditionType.EQUALS, "(//span[contains(@class,'xui-icon-circleright')])[2]")
+WebUI.waitForElementVisible(iconRight2, 10)
+WebUI.waitForElementClickable(iconRight2, 10)
+WebUI.scrollToElement(iconRight2, 10)
+WebUI.click(iconRight2)
+
+
+// Isi Text area untuk alasan pembatalan
+TestObject textareaObj = new TestObject('dynamicTextarea')
+textareaObj.addProperty('xpath', ConditionType.EQUALS, "//*[@id='xui.UI.Input-INPUT:ad:']")
+
+WebUI.waitForElementVisible(textareaObj, 10)
+WebUI.waitForElementClickable(textareaObj, 10)
+
+WebUI.scrollToElement(textareaObj, 5)
+WebUI.setText(textareaObj, 'Testing')
+
+WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//*[@id='xui.UI.Button-CAPTION:ag:']"))
+
+WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//*[@id='xui.UI.Button-CAPTION:ab:']"))
+ 
+WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/span_O K (1)'))
+
+WebUI.click(findTestObject('Object Repository/PersetujuanPembukaanRekeningTes/Page_ARB Banking System/img_START_xui.UI.Imagec (3)'))
+
+WebUI.click(findTestObject('Object Repository/PersetujuanPembukaanRekeningTes/Page_ARB Banking System/span_Sign Out (3)'))
+
+WebUI.click(findTestObject('Object Repository/PersetujuanPembukaanRekeningTes/Page_ARB Banking System/span_Yes (3)'))
+
+WebUI.closeBrowser()
+WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//span[contains(@class,'xui-icon-circleright')]"))
+
+WebUI.delay(5)
+
+WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//span[contains(@class,'xui-icon-circleright')]"))
+
+WebUI.click(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/Page_ARB Banking System/img_START_xui.UI.Imagec'))
+
+WebUI.click(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/Page_ARB Banking System/span_Sign Out'))
+
+WebUI.click(findTestObject('Object Repository/PembatalanPembukaanRekeningTes/Page_ARB Banking System/span_Yes'))
+
+WebUI.closeBrowser()
 

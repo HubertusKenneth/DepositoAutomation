@@ -51,16 +51,6 @@ WebUI.sendKeys(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB B
 
 WebUI.click(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB Banking System/span_HUBERTUS KENNETH (1)'))
 
-WebUI.click(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB Banking System/label_DATA HADIAH_xui.UI.Labelaj'))
-
-WebUI.setText(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB Banking System/input_Nama Nasabah_xui.UI.Input-INPUTs'), 
-    'RIRI')
-
-WebUI.sendKeys(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB Banking System/input_Nama Nasabah_xui.UI.Input-INPUTs'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB Banking System/span_RIRI AKMANDA'))
-
 WebUI.click(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB Banking System/label_Text Area_xui.UI.Labelcf'))
 
 WebUI.click(findTestObject('Object Repository/PembukaanRekeningTes/Page_ARB Banking System/input_Jenis Produk_xui.UI.ComboInput-INPUTo'))

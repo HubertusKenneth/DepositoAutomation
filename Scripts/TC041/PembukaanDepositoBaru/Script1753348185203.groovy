@@ -61,7 +61,7 @@ WebUI.setText(findTestObject('Object Repository/PembukaanDeposito/Page_ARB Banki
     '10000000')
 
 WebUI.setText(findTestObject('Object Repository/PembukaanDeposito/Page_ARB Banking System/input_Nomor Bilyet Tercetak_xui.UI.Input-INPUTab (1)'), 
-    '015627')
+    '0156274')
 
 WebUI.click(findTestObject('Object Repository/PembukaanDeposito/Page_ARB Banking System/span_Simpan'))
 

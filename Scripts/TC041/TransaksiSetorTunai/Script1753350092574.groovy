@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.testobject.ConditionType
 
 WebUI.openBrowser('')
 
@@ -51,10 +52,10 @@ WebUI.setText(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Bankin
     '3')
 
 WebUI.setText(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/input_Nomor Rekening_xui.UI.Input-INPUTi'), 
-    '0011583')
+    '0011584')
 
 WebUI.setText(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/input_Nomor Rekening_xui.UI.Input-INPUTj'), 
-    '8')
+    '1')
 
 WebUI.sendKeys(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/input_Nomor Rekening_xui.UI.Input-INPUTj'), 
     Keys.chord(Keys.ENTER))
@@ -68,7 +69,7 @@ WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking 
 WebUI.setText(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/textarea_Catatan_xui.UI.Input-INPUTy'), 
     'test')
 
-WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/span_OK'))
+WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, "//*[@id='xui.UI.Button-CAPTION:aj:']"))
 
 WebUI.click(findTestObject('Object Repository/TransaksiUmumTes/Page_ARB Banking System/span_Tidak'))
 

@@ -44,7 +44,7 @@ WebUI.setText(findTestObject('Object Repository/PersetujuanBukaDepsito/Page_ARB 
 WebUI.click(findTestObject('Object Repository/PersetujuanBukaDepsito/Page_ARB Banking System/span_Run (1)'))
 
 WebUI.setText(findTestObject('Object Repository/PersetujuanBukaDepsito/Page_ARB Banking System/input_Pencarian_xui.UI.Input-INPUTl (1)'), 
-    '370300115838')
+    '370300115841')
 
 WebUI.sendKeys(findTestObject('Object Repository/PersetujuanBukaDepsito/Page_ARB Banking System/input_Pencarian_xui.UI.Input-INPUTl (1)'), 
     Keys.chord(Keys.ENTER))
